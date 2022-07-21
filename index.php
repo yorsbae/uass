@@ -7,10 +7,10 @@
             UJIAN AKHIR PEMROGRAMAN WEB 1
         </div>
         <div>
-            Nama : Nama Anda 
+            Nama : Yordan Abdillah
         </div>
         <div>
-            NIM : Nim Anda 
+            NIM : 21.240.0082
         </div>
         <br>
         
@@ -24,11 +24,11 @@
             Simpan
         </button><input type="reset">
     </form>
-    <script src="js/jquery.js"></script>
+    <script src="jquery.js"></script>
 
     <?php
     require 'lihat.php';
     ?>
-    <script src="js/script.js"></script>
+    <script src="script.js"></script>
     </body>
 </html>
